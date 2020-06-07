@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gmt20/portfolio/static/css/main.f6bd4e0c.chunk.css",
+    "main.js": "/gmt20/portfolio/static/js/main.3f850653.chunk.js",
+    "main.js.map": "/gmt20/portfolio/static/js/main.3f850653.chunk.js.map",
+    "runtime-main.js": "/gmt20/portfolio/static/js/runtime-main.1bc5ec4e.js",
+    "runtime-main.js.map": "/gmt20/portfolio/static/js/runtime-main.1bc5ec4e.js.map",
+    "static/js/2.713e1ce2.chunk.js": "/gmt20/portfolio/static/js/2.713e1ce2.chunk.js",
+    "static/js/2.713e1ce2.chunk.js.map": "/gmt20/portfolio/static/js/2.713e1ce2.chunk.js.map",
+    "index.html": "/gmt20/portfolio/index.html",
+    "precache-manifest.012a6718d3330b08c5432b24704e4f98.js": "/gmt20/portfolio/precache-manifest.012a6718d3330b08c5432b24704e4f98.js",
+    "service-worker.js": "/gmt20/portfolio/service-worker.js",
+    "static/css/main.f6bd4e0c.chunk.css.map": "/gmt20/portfolio/static/css/main.f6bd4e0c.chunk.css.map",
+    "static/js/2.713e1ce2.chunk.js.LICENSE.txt": "/gmt20/portfolio/static/js/2.713e1ce2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bc5ec4e.js",
+    "static/js/2.713e1ce2.chunk.js",
+    "static/css/main.f6bd4e0c.chunk.css",
+    "static/js/main.3f850653.chunk.js"
+  ]
+}
